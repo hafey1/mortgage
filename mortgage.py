@@ -17,5 +17,6 @@ def main():
     print("Hello user, I am here to help you do basic arithmetic")
     # ask for inputs one by one or find some way to ask for them all in one go
     Prin = eval(input("Please give me Principal amount in the closest whole number"))
+    Month = eval(input("Please give me how long your loan is in months"))
 
 main()
